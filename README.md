@@ -1,2 +1,3 @@
-# ultra-recipe-manager-9q4a
+# Ultra Recipe Manager 9Q4A
+
 A repository to test GitHub automation for issue management.
